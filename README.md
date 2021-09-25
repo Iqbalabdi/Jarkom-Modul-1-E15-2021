@@ -22,7 +22,7 @@ Jawab :
 
 Screenshot :  
 
-Dengan menggunakan expression `http.authbasic` kita bisa menemukan paket yang menggunakan basic authentication
+Dengan menggunakan expression `http.authbasic` kita bisa menemukan paket yang menggunakan basic authentication  
 ![image](https://user-images.githubusercontent.com/75016595/134755291-d0542c2d-bd91-459f-8ae5-72b3644dac85.png)
 
 ### No 3
