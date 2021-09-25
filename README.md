@@ -49,7 +49,7 @@ Jawab :
 Screenshot :
 
 Dengan menggunakan expression `frame matches "select"` akan memunculkan paket-paket yang mengandung statement `select`
-![image](https://user-images.githubusercontent.com/75016595/134755603-6af2ba03-5fc7-46d4-aa5d-aa62162da50e.png)
+![image](https://user-images.githubusercontent.com/75016595/134755814-b24ad0f9-0046-4ba8-9841-30c778443d23.png)
 
 ### No 5
 Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap!
@@ -60,7 +60,7 @@ Jawab :
 Screenshot :
 
 Dengan menggunakan expression `frame mathces "insert` akan memunculkan paket yang mengandung statement `insert`. Papa paket tersebut akan terlihat query yang berisi username dan password yang dapat digunakan untuk login pada `portal.ichimarumaru.tech`
-![image](https://user-images.githubusercontent.com/75016595/134755717-ffb6af37-60f4-4d95-9d68-3a9ae000affa.png)
+![image](https://user-images.githubusercontent.com/75016595/134755816-5a889c40-2cfa-49fa-8b13-9173ca9da383.png)
 
 Setelah login, akan muncul halaman untuk mengisi konfigurasi pengkabelan T568B
 
