@@ -48,7 +48,7 @@ Jawab :
 
 Screenshot :
 
-Dengan menggunakan expression `frame matches "select"` akan memunculkan paket-paket yang mengandung statement `select`
+Dengan menggunakan expression `frame matches "select"` akan memunculkan paket-paket yang mengandung statement `select`.
 ![image](https://user-images.githubusercontent.com/75016595/134755814-b24ad0f9-0046-4ba8-9841-30c778443d23.png)
 
 ### No 5
