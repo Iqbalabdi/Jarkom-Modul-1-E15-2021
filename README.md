@@ -59,7 +59,7 @@ Jawab :
 
 Screenshot :
 
-Dengan menggunakan expression `frame mathces "insert` akan memunculkan paket yang mengandung statement `insert`. Papa paket tersebut akan terlihat query yang berisi username dan password yang dapat digunakan untuk login pada `portal.ichimarumaru.tech`
+Dengan menggunakan expression `frame mathces "insert` akan memunculkan paket yang mengandung statement `insert`. Pap\da paket tersebut akan terlihat query yang berisi username dan password yang dapat digunakan untuk login pada `portal.ichimarumaru.tech`
 ![image](https://user-images.githubusercontent.com/75016595/134755816-5a889c40-2cfa-49fa-8b13-9173ca9da383.png)
 
 Setelah login, akan muncul halaman untuk mengisi konfigurasi pengkabelan T568B
