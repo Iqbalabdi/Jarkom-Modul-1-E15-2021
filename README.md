@@ -7,7 +7,7 @@ Sebutkan webserver yang digunakan pada "ichimarumaru.tech"!
 
 Jawab :
 
-<pre>Display filter : http.host == ichimarumaru.tech</pre>
+<pre>http.host == ichimarumaru.tech</pre>
 
 Screenshot :  
 
