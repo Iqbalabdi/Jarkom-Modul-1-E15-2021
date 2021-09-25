@@ -140,6 +140,8 @@ Lakukan pencarian file `bukanapapa.txt` dengan expresion berikut
 <pre>ftp-data.command contains "bukanapapa.txt"</pre>  
 Lakukan TCP Stream kembali, lalu akan terlihat password untuk membuka file `wanted.pdf` pada soal no. 9
 ![image](https://user-images.githubusercontent.com/75016595/134760354-411ee10e-dcd1-4e8b-87a2-26d1793e14dd.png)  
+
+Gunakan password tersebut untuk membuka file `wanted.pdf`  
 ![image](https://user-images.githubusercontent.com/75016595/134760398-7349d190-0841-4f02-b3fa-f204d19fb039.png)  
 password : d1b1langbukanapaapajugagapercaya
 
